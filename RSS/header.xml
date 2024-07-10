@@ -1,0 +1,9 @@
+<rss version="2.0">
+  <channel>
+    <title>RSS feed</title>
+    <link>https://nilb.serv00.net/RSS/index.php</link>
+    <description>Rich Site Summary</description>
+    <language>en-us</language>
+    {items}
+  </channel>
+</rss>
